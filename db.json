@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nombre": "Miguelangel",
+      "alias": "ElCabezon",
+      "email": "mlugo2277@gmail.com",
+      "password": "123456"
+    },
+    {
+      "nombre": "nathalie",
+      "alias": "sudada",
+      "email": "10955838-9",
+      "password": "Movistar2019",
+      "id": 2
+    },
+    {
+      "nombre": "Miguelangel",
+      "email": "10955838-9",
+      "password": "Movistar2019",
+      "alias": "ElRudo",
+      "id": 3
+    }
+  ],
+  "products": []
+}
